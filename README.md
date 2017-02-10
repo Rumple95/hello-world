@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+icecream is my favourite food
+and i am a student at oxford
